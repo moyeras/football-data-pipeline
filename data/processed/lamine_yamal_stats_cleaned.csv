@@ -1,0 +1,4 @@
+Season,Age,Squad,Country,Competition,LeagueRank,Minutes_90s,Goals,Shots,Shots_on_Target,SoT%,Shots_per_90,SoT_per_90,Goals_per_Shot,Goals_per_SoT,Avg_Shot_Distance,Free_Kick_Goals,Penalties,Penalties_Attempted,xG,npxG,npxG_per_Shot,G_minus_xG,npG_minus_xG,Matches
+2022-2023,15,Barcelona,es ESP,1. La Liga,1st,0.1,0,1,1,100.0,11.25,11.25,0.0,0.0,10.9,0,0,0,0.4,0.4,0.35,-0.4,-0.4,Matches
+2023-2024,16,Barcelona,es ESP,1. La Liga,2nd,24.5,5,58,21,36.2,2.37,0.86,0.09,0.24,17.5,0,0,0,5.2,5.2,0.09,-0.2,-0.2,Matches
+2024-2025,17,Barcelona,es ESP,1. La Liga,1st,24.8,6,101,29,28.7,4.07,1.17,0.06,0.21,19.0,0,0,0,7.4,7.4,0.07,-1.4,-1.4,Matches
