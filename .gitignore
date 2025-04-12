@@ -1,0 +1,22 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment and editor
+.env
+.vscode/
+
+# Data files (raw and processed)
+data/**/*.csv
+data/**/*.html
+
+# Plots and figures
+output/**/*.png
+
+# Jupyter notebooks checkpoint folders (if any)
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
