@@ -99,26 +99,6 @@ chmod +x setup.sh
 
 ---
 
-<details>
-<summary>🌐 <strong>Publish to GitHub (Public Portfolio)</strong></summary>
-
-1. Create a GitHub repo (e.g., `football-data-pipeline`)
-2. In your terminal:
-
-```bash
-git init
-git add .
-git commit -m "Initial commit - football data engineering pipeline"
-git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/football-data-pipeline.git
-git push -u origin main
-```
-
-3. Add a proper description and tags in the GitHub repo (e.g., `data-engineering`, `football`, `portfolio`, `ETL`, `python`)
-</details>
-
----
-
 ## 📄 License
 
 This project is licensed under the MIT License.  
@@ -126,4 +106,3 @@ Feel free to reuse and modify for personal or educational purposes!
 
 ---
 
-> ⭐ Tip: Share this in your resume or LinkedIn to showcase your practical data engineering skills.
